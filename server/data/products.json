@@ -1,0 +1,70 @@
+[
+  {
+    "name": "DJI Mini 2",
+    "price": "694.43",
+    "description": "New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag.",
+    "rating": 4.5,
+    "images": [
+      {
+        "publicId": "ecommerce-2/o0iir14ytb6r3dyriojb",
+        "url": "https://res.cloudinary.com/ognjen/image/upload/v1637287163/ecommerce-2/o0iir14ytb6r3dyriojb.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "Acer Aspire 5 A515-46-R14K Slim Laptop",
+    "price": "399.99",
+    "description": "It's all about the innovation. Acer products are designed for your needs and accessibility with powerful features fit for your lifestyle. The Aspire 5 packs a lot of power into the portable design to suit the multi-tasking needs of you and your family. The desktop-class performance of this Acer Aspire 5 laptop with an AMD Ryzen 3 processor boosting performance while giving you amazing battery life. Enjoy photo and video editing on the color-rich 15.6-inch Full HD IPS display with AMD Radeon Vega 6 Graphics.",
+    "rating": 4,
+    "images": [
+      {
+        "publicId": "ecommerce-2/vod80bdflcdd6drifnvc",
+        "url": "https://res.cloudinary.com/ognjen/image/upload/v1637287118/ecommerce-2/vod80bdflcdd6drifnvc.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Amazon",
+    "stock": 8,
+    "numOfReviews": 17,
+    "reviews": []
+  },
+  {
+    "name": "Nike Womens Pullover Fleece Hoodie",
+    "price": "55.00",
+    "description": "The Men's Training Hoodie offers warm and soft brushed-back fleece and an adjustable hood to keep you covered when temperatures drop. Updates to the fit give you room to layer and move freely.",
+    "rating": 4.8,
+    "images": [
+      {
+        "publicId": "ecommerce-2/tuqj4jks0jfvg2zsqlnr",
+        "url": "https://res.cloudinary.com/ognjen/image/upload/v1637286953/ecommerce-2/tuqj4jks0jfvg2zsqlnr.jpg"
+      }
+    ],
+    "category": "Clothes/Shoes",
+    "seller": "Amazon",
+    "stock": 14,
+    "numOfReviews": 70,
+    "reviews": []
+  },
+  {
+    "name": "Timex Men's Expedition Scout 40 Watch",
+    "price": "35.00",
+    "description": "This men's Timex Expedition watch is made from stainless steel and is powered by a quartz movement. It is fastened with a leather strap. The watch also has a date function. Everything you need and nothing you don't.",
+    "rating": 4.4,
+    "images": [
+      {
+        "publicId": "ecommerce-2/dontojrio8jfyu4sgt1a",
+        "url": "https://res.cloudinary.com/ognjen/image/upload/v1637273199/ecommerce-2/dontojrio8jfyu4sgt1a.jpg"
+      }
+    ],
+    "category": "Clothes/Shoes",
+    "seller": "Amazon",
+    "stock": 10,
+    "numOfReviews": 35,
+    "reviews": []
+  }
+]
